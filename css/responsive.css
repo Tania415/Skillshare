@@ -1,0 +1,19 @@
+@media (max-width: 1400px){
+	.container{
+		width: 1320px;
+	}
+}
+
+
+
+@media (max-width: 767px){
+	.banner-content .btn2{
+		display: none;
+	}
+
+	
+
+  .banner-section-1 p{
+
+  }
+}
